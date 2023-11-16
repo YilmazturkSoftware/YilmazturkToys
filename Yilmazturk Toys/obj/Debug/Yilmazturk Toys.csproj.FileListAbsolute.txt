@@ -1,0 +1,18 @@
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\bin\Debug\Yilmazturk Toys.exe.config
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\bin\Debug\Yilmazturk Toys.exe
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\bin\Debug\Yilmazturk Toys.pdb
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk Toys.csproj.AssemblyReference.cache
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\YilmazturkUI.YilmazturkMenuStrip.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.Properties.Resources.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk Toys.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk Toys.csproj.CoreCompileInputs.cache
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk Toys.exe
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk Toys.pdb
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.Anasayfa.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.TusSec.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.YeniTusAta.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.GorevSec.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.Hakkinda.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.Duzenle.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.Ayarlar.resources
+C:\Users\emrey\source\repos\Yilmazturk Toys\Yilmazturk Toys\obj\Debug\Yilmazturk_Toys.KeyEngine.resources
